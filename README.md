@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Pancakewithsiryp
+- 👀 I’m interested in java coding
+- 🌱 I’m currently learning Java coding
+- 📫 How to reach me idk i havent learned github yet
