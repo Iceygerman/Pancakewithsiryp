@@ -2,3 +2,4 @@
 - 👀 I’m interested in java coding
 - 🌱 I’m currently learning Java coding
 - 📫 How to reach me idk i havent learned github yet
+- 👀 Looking for an java developer that makes minecraft hacked clients for anarchy servers.
