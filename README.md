@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pancakewithsiryp
 - 👀 I’m interested in java coding
 - 🌱 I’m currently learning Java coding but i suck at it.
-- 📫 Contact me at discord Pancakewithsirap#2115
+- 📫 Contact me at discord Pancakewithsirap#1000
 - 👀 Looking for an java developer that makes minecraft hacked clients for anarchy servers.
