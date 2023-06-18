@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @Pancakewithsiryp
-- 👀 I’m interested in java coding
-- 🌱 I’m currently learning to make minecraft hacked clients
-- 📫 Contact me at discord Pancakewithsyrup#4687
-- 👀 Looking for an java developer that makes minecraft hacked clients for anarchy servers.
+- 👋 Hi, I’m Iceygerman
+
+Currently trying to learn how to code minecraft utility mods specified for 2b2t and other anarchy servers.
